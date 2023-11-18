@@ -38,3 +38,9 @@ npm test
 
 > ✨ Dica:
 > Dentro da pasta src (source), no arquivo, "index.js" você pode alterar o valor que a função calculateSum recebe, na linha 21, assim, obtendo novos resultados.
+
+> ✨ Dica 2:
+> Você também pode adicionar novas chamadas, simplesmente adicionar um console.log (Serve para imprimir testos no nosso terminal, após a linha 20, ou em um navegador), com o seguinte linha de comando: ```console.log(calculateSum(100))```, onde o valor 100 pode ser qualquer número inteiro, maior que Zero.
+
+
+
