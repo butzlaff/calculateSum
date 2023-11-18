@@ -5,7 +5,7 @@
 <p>Para inciciar, devemos clonar o repositório em sua máquina, com o comando:
 
 ```sh
- git clone + my repository 
+ git clone git@github.com:butzlaff/calculateSum.git
 ```
 
 Feito isto, devemos instalar as dependências, para isso acesse a pasta raiz, onde o programa esta.
