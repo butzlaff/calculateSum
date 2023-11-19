@@ -14,7 +14,7 @@ function calculateSum(number) {
       sum += i;
     }
   }
-  // Retorna a
+  // Retorna o resultado da
   return sum;
 }
 
